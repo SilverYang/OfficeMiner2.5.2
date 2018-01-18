@@ -1,7 +1,7 @@
 			OfficeMiner V2.5.2
 
 Introduction:
-	OfficeMiner is a free tool to get Ethereum. It's use Claymore as core, 
+	OfficeMiner is a free Ethereum GUI mining tool to get Ethereum. It's use Claymore as core, 
 	This tool have all features that Claymore have.
 
 NOTE:
