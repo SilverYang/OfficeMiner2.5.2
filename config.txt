@@ -1,0 +1,14 @@
+GPUtype:A
+wallet:
+pool:eth.f2pool.com:8008
+backuppool:backup-eth.f2pool.com:8008
+worker:worker01
+pswd:x
+ftime:10
+mode:1
+estale:0
+ReStartMinerEnable:False
+ReStartMinerDuration:30
+AutoStart:NO
+BootAuto:NO
+Lang:1
