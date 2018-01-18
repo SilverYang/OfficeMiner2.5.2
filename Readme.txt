@@ -14,7 +14,7 @@ NOTE:
 		reverse assemble, reverse compile or otherwise attempt to derive the human-readable form of 
 		the source code of any parts of this software.
 	3. You may not cancel, reduce, change, remove, block, or redirect built-in developer fee 
-		in any way. 0.3% as developer fee.
+		in any way. 0.5% as developer fee.
 
 System Requirement:
 	Windows7/10
